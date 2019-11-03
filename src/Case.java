@@ -5,8 +5,6 @@ package com.example.lithuanianapp; // package calls must be always at the beginn
 import java.sql.SQLOutput;
 import java.util.*;
 
-//1ST COMMIT FROM DESKTOP (PUSH TRIAL)
-
 public class Case {
 
     // Attributes
