@@ -120,7 +120,7 @@ public class Case {
                 break;
             case "ios": //F (aggettivi F plurali di -(i)us, ex: skani -> skanios)
                 outputSuffix = "i (plural)";
-
+                break;
 
             default:
                 outputSuffix = "err";
